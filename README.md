@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-##I'm Aastha
+### I'm Aastha,currently pursuing my bachelor of technology in Computer Science from Banasthali Vidyapith
 
 # 💫 About Me:
 👨‍💻 Computer Science enthusiast | 🎓 4th-year BTech student<br>🌟 Passionate about coding, problem-solving, and innovation<br>🚀 Always eager to learn and explore new technologies<br>💡 Turning lines of code into meaningful solutions<br>🌐 Open source contributor and GitHub enthusiast<br>📚 Constantly evolving and adapting to the tech landscape<br>⚙️ Building the future one project at a time
